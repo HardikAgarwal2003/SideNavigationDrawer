@@ -6,31 +6,32 @@
     android:gravity="bottom"
     android:orientation="vertical"
     android:padding="20dp">
-    
+
     <ImageView
         android:layout_width="70dp"
         android:layout_height="70dp"
-        android:src="@drawable/ic_person"/>
+        android:src="@drawable/ic_person" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hardik Agarwal"
         android:textColor="@color/white"
         android:textSize="25sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="SPEED48Q"
         android:textColor="@color/white"
-        android:textSize="20sp"/>
+        android:textSize="20sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Available"
         android:textColor="@color/white"
-        android:textSize="15sp"/>
+        android:textSize="15sp" />
 
 </LinearLayout>
